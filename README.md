@@ -1,7 +1,11 @@
-# Vue.js
+# Composer Vue.js
 
-This is the Template Repl for Vue.js.
+This uses demo data. Create a new component and replace your Component ID to get started.
 
-Vue.js is a library for building user interfaces in JavaScript. This template uses Vite to serve your app.
+## Documentation
 
-[Check out the official docs here](https://vuejs.org/).
+Learn more about [Nylas Components](https://developer.nylas.com/docs/user-experience/components/).
+
+## Components
+
+Check out the [Components repo](https://github.com/nylas/components).
